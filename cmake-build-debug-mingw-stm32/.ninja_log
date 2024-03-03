@@ -8,7 +8,7 @@
 290	593	7311802912159908	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dbgmcu.c.obj	52c479c9c631f383
 20	438	7311802910057250	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.c.obj	4ab0a22bf64731eb
 602	866	7311802915040658	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_ltdc.c.obj	497e116f47dd9762
-841	1023	7311802916624497	CMakeFiles/STM32Project1.elf.dir/User/Source/main.c.obj	b8ae04f0b53112a6
+6	129	7311804263467438	CMakeFiles/STM32Project1.elf.dir/User/Source/main.c.obj	b8ae04f0b53112a6
 48	377	7311802909596852	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_cryp_tdes.c.obj	11d241ff85c17cf7
 438	664	7311802912979323	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_fsmc.c.obj	44e4beaa714a047d
 244	602	7311802912304689	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_cryp_des.c.obj	93766e30ff5c9511
@@ -24,7 +24,7 @@
 29	293	7311802909049576	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dfsdm.c.obj	9271007f9f867b04
 380	613	7311802912434520	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_fmpi2c.c.obj	13304b28e473c9c8
 833	998	7311802916222413	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_wwdg.c.obj	7e563e04afe31fed
-838	1024	7311802916634542	CMakeFiles/STM32Project1.elf.dir/User/Source/bsp_led.c.obj	a532449527d58dd8
+2	120	7311804263355382	CMakeFiles/STM32Project1.elf.dir/User/Source/bsp_led.c.obj	a532449527d58dd8
 301	582	7311802912129112	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash_ramfunc.c.obj	43be5452b98e51b7
 496	658	7311802912799242	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_lptim.c.obj	5fed51c233312142
 297	597	7311802912171176	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma2d.c.obj	a5007739fce824d8
@@ -46,9 +46,6 @@
 664	895	7311802915320079	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_sai.c.obj	4ea72a07eea8b32b
 658	885	7311802915227027	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_sdio.c.obj	72386588ae6b92d0
 829	1083	7311802917224642	CMakeFiles/STM32Project1.elf.dir/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.c.obj	b78798fb568076d0
-1083	1291	7311802918657441	STM32Project1.elf	cdead835af56e419
+129	345	7311804265056370	STM32Project1.elf	cdead835af56e419
 15	272	7311802908889806	CMakeFiles/STM32Project1.elf.dir/Libraries/IORetarget/Source/syscalls.c.obj	a8672277b4662873
 12	289	7311802909059648	CMakeFiles/STM32Project1.elf.dir/Libraries/IORetarget/Source/retarget.c.obj	3354b4503e719f0
-2	120	7311804263355382	CMakeFiles/STM32Project1.elf.dir/User/Source/bsp_led.c.obj	a532449527d58dd8
-6	129	7311804263467438	CMakeFiles/STM32Project1.elf.dir/User/Source/main.c.obj	b8ae04f0b53112a6
-129	345	7311804265056370	STM32Project1.elf	cdead835af56e419
